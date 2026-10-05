@@ -1,5 +1,17 @@
-tkinter
-pillow
-csv
-threading
-subprocess32
+# DNHBRIXX Hotspot Watch Dependencies
+
+# GUI Framework (usually included with Python)
+# tkinter - included with Python 3.x
+
+# Note: No external dependencies required!
+# Uses only Python standard library:
+# - tkinter (GUI)
+# - subprocess (network scanning)
+# - csv (CSV export)
+# - threading (async scanning)
+# - winsound (audio alerts - Windows only)
+# - datetime (timestamps)
+# - pathlib (file handling)
+
+# To run:
+# python hotspot_watch.py
