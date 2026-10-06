@@ -1,4 +1,4 @@
-# privacy and anonymity
+# ( NOISY ) privacy and anonymity
 
 **Real-time hotspot device monitor with beautiful GUI, CSV export, and device alerts**
 
